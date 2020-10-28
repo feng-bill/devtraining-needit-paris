@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>All Fields</enforce_mandatory_fields>
+        <name>Import Historic NeedIt Data</name>
+        <order>100</order>
+        <run_business_rules>false</run_business_rules>
+        <run_script>true</run_script>
+        <script/>
+        <source_table>x_545444_untrustwo_historic_needit_data</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-22 20:59:02</sys_created_on>
+        <sys_id>9ebe0f41db0c6010bb72cc3039961995</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Import Historic NeedIt Data</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_transform_map_9ebe0f41db0c6010bb72cc3039961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 22:01:35</sys_updated_on>
+        <target_table>x_58872_needit_needit</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>873e1757db7477404d2bac44d4961997</instance_id>
+        <instance_name>dev82083</instance_name>
+        <name>sys_transform_map_9ebe0f41db0c6010bb72cc3039961995</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map"><sys_transform_map action="INSERT_OR_UPDATE"><active>true</active><copy_empty_fields>false</copy_empty_fields><create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields><enforce_mandatory_fields>All Fields</enforce_mandatory_fields><name>Import Historic NeedIt Data</name><order>100</order><run_business_rules>false</run_business_rules><run_script>true</run_script><script/><source_table>x_545444_untrustwo_historic_needit_data</source_table><sys_class_name>sys_transform_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-22 20:59:02</sys_created_on><sys_id>9ebe0f41db0c6010bb72cc3039961995</sys_id><sys_mod_count>9</sys_mod_count><sys_name>Import Historic NeedIt Data</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_transform_map_9ebe0f41db0c6010bb72cc3039961995</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-28 22:01:35</sys_updated_on><target_table>x_58872_needit_needit</target_table></sys_transform_map></record_update>]]></payload>
+        <payload_hash>245291032</payload_hash>
+        <record_name>Import Historic NeedIt Data</record_name>
+        <reverted_from/>
+        <source>f8be8349db0c6010bb72cc303996194e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 22:01:35</sys_created_on>
+        <sys_id>0ed69e87db0c2010bb72cc303996191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175713b09260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 22:01:35</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>46d69e87a50c2010d39dc276d503521c</update_guid>
+        <update_guid_history>46d69e87a50c2010d39dc276d503521c:245291032,441052837f0c2010ed67a6d557f8355a:-85979516,5d4fc643c10c2010b41435b3691249f9:-725331571,ba0cce8f4cc8201093b1d691fa0b8b56:-85979516,9e032d7631002010dc3edc5c53675b04:-912692013,73d2a176c5002010ddea3dc0f25dcaed:-971537124,905021f26b0020100ae2524ab636bb49:-912692013,dbbe997264002010b8e6aa1af4e43676:-409961627,ae93c499aa8c60100b3a68ac40571d56:-570988050,d3fe8349d10c601006cdda378122f7ed:439146695</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 22:18:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>2cffa38c634b4cab9dcf2fab114e2041</sys_id>
+        <sys_metadata>9ebe0f41db0c6010bb72cc3039961995</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Import Historic NeedIt Data</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_transform_map_9ebe0f41db0c6010bb72cc3039961995</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_9ebe0f41db0c6010bb72cc3039961995">0ed69e87db0c2010bb72cc303996191c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 22:18:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
